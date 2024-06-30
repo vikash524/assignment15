@@ -1,0 +1,7 @@
+setpu.py
+diamond.egg-info/PKG-INFO
+diamond.egg-info/SOURCES.txt
+diamond.egg-info/dependency_links.txt
+diamond.egg-info/requires.txt
+diamond.egg-info/top_level.txt
+src/__init__.py

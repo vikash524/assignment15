@@ -1,0 +1,13 @@
+prefix=/workspaces/assignment15/venv
+exec_prefix=/workspaces/assignment15/venv
+libdir=/workspaces/assignment15/venv/lib
+sharedlibdir=/workspaces/assignment15/venv/lib
+includedir=/workspaces/assignment15/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
